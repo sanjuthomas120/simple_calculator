@@ -1,3 +1,6 @@
+#Hi
+
+##Hi
 # Simple Calculator
 
 This is a simple calculator application built with React and TypeScript. It provides basic arithmetic operations, including addition, subtraction, multiplication, and division. The application allows users to perform calculations interactively using buttons.
