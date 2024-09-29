@@ -17,7 +17,7 @@ This is a simple calculator application built with React and TypeScript. It prov
 - **Math.js**: A library for evaluating mathematical expressions.
 
 ## Installation
-```
+```bash
 To run this project locally, follow these steps:
 ```
 1. Clone the repository:
